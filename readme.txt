@@ -1,4 +1,4 @@
-HP ASSESMENt BY Harsh Verma:
+BY Harsh Verma:
 
 The program is written in python to support both CLI and HTTP API based services. The program uses python 3 or above(3.6).
 
