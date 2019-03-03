@@ -1,0 +1,8 @@
+Requirements for the program:
+o    The program must have a CLI or WebUI or API
+o    The program/executable has to be standalone.
+o    You must provide a set of easy to follow instructions on how to run and execute the program. Assume the system used for running the program has just a base OS installed
+o    You must submit
+·   all of the source code and the corresponding executable. If you zip all of the contents that will be acceptable or share it via the cloud.
+·   unit tests for your application and how to run the tests.
+·   Input data used to test your program
