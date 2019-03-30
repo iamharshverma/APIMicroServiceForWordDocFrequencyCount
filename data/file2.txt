@@ -1,8 +1,1 @@
-Requirements for the program:
-o    The program must have a CLI or WebUI or API
-o    The program/executable has to be standalone.
-o    You must provide a set of easy to follow instructions on how to run and execute the program. Assume the system used for running the program has just a base OS installed
-o    You must submit
-·   all of the source code and the corresponding executable. If you zip all of the contents that will be acceptable or share it via the cloud.
-·   unit tests for your application and how to run the tests.
-·   Input data used to test your program
+I’ve been an Op-Ed columnist since 2009, and I write about politics, religion, pop culture, sociology and the places where they all intersect. I’m a Catholic and a conservative, in that order, which means that I’m against abortion and critical of the sexual revolution, but I tend to agree with liberals that the Republican Party is too friendly to the rich. I was against Donald Trump in 2016 for reasons specific to Donald Trump, but in general I think the populist movements in Europe and America have legitimate grievances and I often prefer the populists to the “reasonable” elites. I’ve written books about Harvard, the G.O.P., American Christianity and Pope Francis; I’m working on one about decadence. Benedict XVI was my favorite pope. I review movies for National Review and have strong opinions about many prestige television shows. I have three small children, two girls and a boy, and I live in New Haven with my wife.
