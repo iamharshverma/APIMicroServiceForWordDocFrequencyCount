@@ -1,5 +1,5 @@
-/Users/harshverma/PycharmProjects/HPWordCount/data/file1.txt
-/Users/harshverma/PycharmProjects/HPWordCount/data/file2.txt
-/Users/harshverma/PycharmProjects/HPWordCount/data/file3.txt
-/Users/harshverma/PycharmProjects/HPWordCount/data/file4.txt
-/Users/harshverma/PycharmProjects/HPWordCount/data/file5.txt
+/Users/harshverma/PycharmProjects/APIMicroServiceForWordDocFrequencyCount/data/file1.txt
+/Users/harshverma/PycharmProjects/APIMicroServiceForWordDocFrequencyCount/data/file2.txt
+/Users/harshverma/PycharmProjects/APIMicroServiceForWordDocFrequencyCount/data/file3.txt
+/Users/harshverma/PycharmProjects/APIMicroServiceForWordDocFrequencyCount/data/file4.txt
+/Users/harshverma/PycharmProjects/APIMicroServiceForWordDocFrequencyCount/data/file5.txt
